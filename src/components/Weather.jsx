@@ -8,7 +8,7 @@ const Weather = () => {
     const [cityInput, setCityInput] = useState('');
   
     // API URL and API key
-    const apiKey = '9d5f7b4d35bcf9397e61d44cfadec9ad'; // Replace with your actual API key
+    const apiKey = 'API KEY'; // Replace with your actual API key
     const weatherApiUrl = `https://api.openweathermap.org/data/2.5/weather`
    
   
